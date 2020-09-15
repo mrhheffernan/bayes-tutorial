@@ -1,6 +1,6 @@
 # Bayesian tutorial journal clubs
 
-These introductory sessions are given as journal clubs in the McGill Nuclear Theory group by Matthew Heffernan, using resources (lightly 
+These introductory sessions are given as journal clubs in the McGill Nuclear Theory group by Matthew Heffernan, using resources lightly, if at all, modified from Dick Furnstahl's excellent course at The Ohio State University.
 
 ## Installation
 This contains the instructions for installation. 
