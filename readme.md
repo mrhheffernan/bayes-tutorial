@@ -18,7 +18,7 @@ This will create and activate your virtual environment.
 
 Now, install the required packages:
 
-    pip -r requirements-bayestutorial.txt
+    pip install -r requirements-bayestutorial.txt
 
 This may take a while, but at the end, we should be ready to procede.
 
