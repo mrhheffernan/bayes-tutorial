@@ -34,3 +34,6 @@ To deactivate:
 ## Contents
 1. Intro
     - Intro-to-Bayes
+2. MCMC
+    - MCMC-Intro-and-Diagnostics
+
