@@ -1,6 +1,8 @@
 # Bayesian tutorial journal clubs
 
-These introductory sessions are given as journal clubs in the McGill Nuclear Theory group by Matthew Heffernan, using resources (lightly 
+These introductory sessions are resources for tutorials in the McGill Nuclear Theory group by Matthew Heffernan and are lightly, if at all, modified from Dick Furnstahl's excellent course at The Ohio State University. See [my fork of his course repository](https://github.com/mrhheffernan/Physics-8805) as I have made some changes for more modern package versions.
+
+If there are any downstream uses, please contact me for proper attribution information.
 
 ## Installation
 This contains the instructions for installation. 
@@ -16,7 +18,7 @@ This will create and activate your virtual environment.
 
 Now, install the required packages:
 
-    pip -r requirements-bayestutorial.txt
+    pip install -r requirements-bayestutorial.txt
 
 This may take a while, but at the end, we should be ready to procede.
 
